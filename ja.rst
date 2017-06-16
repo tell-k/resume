@@ -14,6 +14,8 @@
    - joboffer2tellk@gmail.com
  * - LinkedIn
    - https://www.linkedin.com/in/tell-k-83771122/
+ * - GitHub
+   - https://github.com/tell-k
  * - Blog
    - http://tell-k.hatenablog.com/
  * - Qiita
