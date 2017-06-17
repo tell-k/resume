@@ -23,8 +23,8 @@ Job search status
 Resume
 ---------------------------
 
-* `English Version <en.rst>`_ (`PDF </tell-k/resume/blob/release/en.pdf>`_)
-* `Japanse Version <ja.rst>`_ (`PDF </tell-k/resume/blob/release/ja.pdf>`_)
+* `English Version <en.rst>`_ (`PDF <https://github.com/tell-k/resume/blob/release/en.pdf>`_)
+* `Japanse Version <ja.rst>`_ (`PDF <https://github.com/tell-k/resume/blob/release/ja.pdf>`_)
 
 Build PDF
 ---------------------------
