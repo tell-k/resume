@@ -25,7 +25,7 @@ deployment:
       - git add --all :/
       - git commit ./en.pdf ./ja.pdf -m "build pdf"
       - git pull git@github.com:tell-k/resume.git master
-      - git push git@github.com:tell-k/resume.git master
+      # - git push git@github.com:tell-k/resume.git master
 
 test:
   pre: 
