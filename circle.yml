@@ -17,7 +17,7 @@ dependencies:
   pre:
     - docker info
     - if [[ -e ~/docker/image.tar ]]; then docker load --input ~/docker/image.tar; fi
-    - docker build -t chezou/docker-sphinx-recommonmark .
+    - docker pull chezou/docker-sphinx-recommonmark
     - mkdir -p ~/docker; docker save chezou/docker-sphinx-recommonmark > ~/docker/image.tar
 
 deployment:
