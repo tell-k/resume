@@ -1,0 +1,34 @@
+general:
+  artifacts:
+    - en.pdf
+    - ja.pdf
+
+machine:
+  timezone:
+    Asia/Tokyo
+  python:
+    version: 3.6.0
+
+dependencies:
+  pre:
+    - pip install Sphinx
+
+deployment:
+  deploy:
+    branch: master
+    commands:
+      - mkdocs build --clean
+      - git config --global user.email ffk2005@gmail.com
+      - git config --global user.name tell-k
+      - git add --all :/
+      - git commit ./en.pdf ./ja.pdf -m "build [ci skip]"
+      - git pull git@github.com:tell-k/resume.git master
+      - git push git@github.com:tell-k/resume.git master
+
+test:
+  pre: 
+    - echo "-----start test-----"
+  override:    
+    - echo "-----no test-----"
+  post: 
+    - echo "-----end test-----"
