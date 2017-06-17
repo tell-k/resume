@@ -27,7 +27,7 @@ deployment:
       - git checkout -b release
       - git add --all :/
       - git commit ./en.pdf ./ja.pdf -m "build pdf"
-      - git push git@github.com:tell-k/resume.git release
+      - git push -f git@github.com:tell-k/resume.git release
 
 test:
   pre: 
