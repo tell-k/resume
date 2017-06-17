@@ -17,14 +17,14 @@ dependencies:
   pre:
     - docker info
     - if [[ -e ~/docker/image.tar ]]; then docker load --input ~/docker/image.tar; fi
-    - docker pull chezou/docker-sphinx-recommonmark
-    - mkdir -p ~/docker; docker save chezou/docker-sphinx-recommonmark > ~/docker/image.tar
+    - docker pull chezou/sphinx-recommonmark
+    - mkdir -p ~/docker; docker save chezou/sphinx-recommonmark > ~/docker/image.tar
 
 deployment:
   deploy:
     branch: master
     commands:
-      - docker run -it -v docs:/documents/ chezou/docker-sphinx-recommonmark
+      - docker run -it -v docs:/documents/ chezou/sphinx-recommonmark
       - ./build_pdf.sh
       - git config --global user.email ffk2005@gmail.com
       - git config --global user.name tell-k
