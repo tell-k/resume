@@ -13,7 +13,7 @@ dependencies:
   pre:
     - sudo apt-get update
     - sudo apt-get install -y texlive texlive-lang-cjk latexmk
-    - pip install Sphinx
+    - pip install -r requirements.txt
 
 deployment:
   deploy:
@@ -22,10 +22,11 @@ deployment:
       - ./build_pdf.sh
       - git config --global user.email ffk2005@gmail.com
       - git config --global user.name tell-k
+      - git checkout -b release
       - git add --all :/
       - git commit ./en.pdf ./ja.pdf -m "build pdf"
-      - git pull git@github.com:tell-k/resume.git master
-      # - git push git@github.com:tell-k/resume.git master
+      - git pull git@github.com:tell-k/resume.git release
+      - git push git@github.com:tell-k/resume.git release
 
 test:
   pre: 
