@@ -22,3 +22,20 @@ Resume
 
 * `English Version <en.rst>`_ (`PDF <en.pdf>`_)
 * `Japanse Version <ja.rst>`_ (`PDF <ja.pdf>`_)
+
+Build PDF
+---------------------------
+
+for macOS
+
+.. code-block:: bash
+ 
+ $ brew install caskroom/cask/brew-cask
+ $ brew cask install mactex
+
+ $ sudo tlmgr update --self --all
+ $ export PATH=/Library/TeX/texbin:$PATH
+
+ $ pip intall -r requirements.txt
+ $ ./build_pdf.sh
+ 

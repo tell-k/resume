@@ -81,7 +81,6 @@ latex_elements = {
     'tableofcontents': '',  # 目次非表示
     'maketitle': '',        # 表紙非表示
     'preamble': r'''
-
 % 余白 ------------
 \geometry{left=15mm,right=15mm,top=15mm,bottom=10mm}
 
@@ -156,7 +155,6 @@ latex_elements = {
   }
 \makeatother
 ''',
-
     # The font size ('10pt', '11pt' or '12pt').
     # 'pointsize': '10pt',
 
@@ -168,7 +166,3 @@ latex_documents = [
     (master_doc, 'resume.tex', 'resume Documentation',
      'tell-k', 'howto'),
 ]
-
-
-# https://gist.github.com/uchida/4545280
-# http://tk0miya.hatenablog.com/entry/2014/07/17/003104

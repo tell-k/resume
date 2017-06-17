@@ -1,3 +1,9 @@
+#!/bin/sh
+
+REPO_DIR=`dirname "$BASH_SOURCE"`
+
+cd ${REPO_DIR}
+
 cp -pr ja.rst docs/resume.rst
 cd docs
 make clean && make latexpdf
