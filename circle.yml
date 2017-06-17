@@ -24,8 +24,7 @@ deployment:
   deploy:
     branch: master
     commands:
-      - docker run -it -v docs:/documents/ chezou/sphinx-recommonmark
-      - ./build_pdf.sh
+      - docker run -it -v `pwd`:/documents/ chezou/sphinx-recommonmark ./build_pdf.sh
       - git config --global user.email ffk2005@gmail.com
       - git config --global user.name tell-k
       - git checkout -b release

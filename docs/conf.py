@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 #
 # resume documentation build configuration file, created by
 # sphinx-quickstart on Mon Jun 12 01:20:51 2017.
@@ -80,7 +80,7 @@ latex_elements = {
     'papersize': 'a4paper', # A4サイズ
     'tableofcontents': '',  # 目次非表示
     'maketitle': '',        # 表紙非表示
-    'preamble': r'''
+    'preamble': ur'''
 % 余白 ------------
 \geometry{left=15mm,right=15mm,top=15mm,bottom=10mm}
 
