@@ -2,6 +2,9 @@
 tell-k's resume.
 ============================
 
+.. image:: https://circleci.com/gh/tell-k/resume.svg?style=svg
+    :target: https://circleci.com/gh/tell-k/resume
+
 Purpose
 ---------------------------
 
