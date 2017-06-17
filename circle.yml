@@ -14,7 +14,6 @@ machine:
 dependencies:
   override:
     - docker info
-    - docker build --rm=false -t chezou/docker-sphinx-recommonmark .
 
 deployment:
   deploy:
