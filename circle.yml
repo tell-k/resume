@@ -12,7 +12,7 @@ machine:
 dependencies:
   pre:
     - sudo apt-get update
-    - sudo apt-get install -y texlive texlive-lang-cjk
+    - sudo apt-get install -y texlive texlive-lang-cjk latexmk
     - pip install Sphinx
 
 deployment:
