@@ -113,7 +113,7 @@ Writing
 
  * - Python Professional Programming 2nd Edition
    - https://www.amazon.co.jp/dp/479804315X/ (Japanese)
- * - Python Professinal Programming
+ * - Python Professional Programming
    - https://www.amazon.co.jp/dp/4798032948/ (Japanese)
 
 Reviewer
