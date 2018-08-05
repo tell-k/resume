@@ -35,6 +35,8 @@
 
  * - プログラミング言語
    - Python, JavaScript, TypeScript, Go, PHP, VimScript, Perl, Ruby
+ * - フロントエンド
+   - Vue.js, Nuxt.js, Angular
  * - Webフレームワーク
    - Django, Flask, Symfony
  * - DBMS,KVS
@@ -110,6 +112,8 @@
 .. list-table::
  :widths: 30 30
 
+ * - Pythonプロフェッショナルプログラミング第3版
+   - https://www.amazon.co.jp/dp/4798053821/
  * - Pythonプロフェッショナルプログラミング第2版
    - https://www.amazon.co.jp/dp/479804315X/
  * - Pythonプロフェッショナルプログラミング
@@ -121,6 +125,8 @@
 .. list-table::
  :widths: 15 30
 
+ * - 独学プログラマー
+   - https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/
  * - Sphinxをはじめよう
    - https://www.oreilly.co.jp/books/9784873116488/
 
@@ -130,13 +136,17 @@
 .. list-table::
  :widths: 30 30
 
+ * - できる！Djangoでテスト! (DjangoCongress JP 2018)
+   - https://tell-k.github.io/djangocongressjp2018/
+ * - Pythonをとりまく並行/非同期の話 (PyCon JP 2017)
+   - https://tell-k.github.io/pyconjp2017/
  * - メタプログラミングPython (PyCon JP 2016)
-   - https://github.com/tell-k/pyconjp2016
+   - https://tell-k.github.io/pyconjp2016/
  * - PyPIデビュー 2015 (PyCon JP 2015)
-   - https://github.com/tell-k/pyconjp2015
+   - https://tell-k.github.io/pyconjp2015/
  * - リファクタリングツールあれこれ (PyCon JP 2014)
-   - https://github.com/tell-k/pyconjp2014
+   - https://tell-k.github.io/pyconjp2014/
  * - Sphinxと僕 (PyCon Apac 2013)
-   - https://github.com/tell-k/pyconapac2013
+   - https://tell-k.github.io/pyconapac2013/
  * - SQLAlchemyと僕 (PyCon JP 2012)
-   - https://github.com/tell-k/pyconjp2012
+   - https://tell-k.github.io/pyconapac2012/

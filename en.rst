@@ -32,6 +32,8 @@ Skills
 
  * - Programming language
    - Python, JavaScript, TypeScript, Go, PHP, VimScript, Perl
+ * - Frontend
+   - Vue.js, Nuxt.js, Angular
  * - Web Application Framework
    - Django, Flask, Symfony
  * - DBMS,KVS
@@ -112,6 +114,8 @@ Writing
 .. list-table::
  :widths: 25 30
 
+ * - Python Professional Programming 3rd Edition
+   - https://www.amazon.co.jp/dp/4798053821/ (Japanese)
  * - Python Professional Programming 2nd Edition
    - https://www.amazon.co.jp/dp/479804315X/ (Japanese)
  * - Python Professional Programming
@@ -123,6 +127,8 @@ Reviewer
 .. list-table::
  :widths: 15 30
 
+ * - Self taught programmer(Japanse version)
+   - https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/
  * - Let\\'s start Sphinx
    - https://www.oreilly.co.jp/books/9784873116488/ (Japanese)
 
@@ -132,14 +138,18 @@ Presentation
 .. list-table::
  :widths: 30 30
 
+ * - You can! Testing with Djagno! (DjangoCongress JP 2018)
+   - https://tell-k.github.io/djangocongressjp2018/ (Japanese)
+ * - Concurrent and asynchronous programming around Python (PyCon JP 2017)
+   - https://tell-k.github.io/pyconjp2017/ (Japanse)
  * - Metaprogramming Python (PyCon JP 2016)
-   - https://github.com/tell-k/pyconjp2016 (Japanese)
+   - https://tell-k.github.io/pyconjp2016/ (Japanse)
  * - PyPI debut 2015 (PyCon JP 2015)
-   - https://github.com/tell-k/pyconjp2015 (Japanese)
+   - https://tell-k.github.io/pyconjp2015/ (Japanse)
  * - Refactoring tools for Python (PyCon JP 2014)
-   - https://github.com/tell-k/pyconjp2014 (Japanese)
+   - https://tell-k.github.io/pyconjp2014/ (Japanse)
  * - Sphinx and me (PyCon Apac 2013)
-   - https://github.com/tell-k/pyconapac2013 (Japanese)
+   - https://tell-k.github.io/pyconapac2013/ (Japanse)
  * - SQLAlchemy and me (PyCon JP 2012)
-   - https://github.com/tell-k/pyconjp2012 (Japanese)
+   - https://tell-k.github.io/pyconapac2012/ (Japanse)
 
