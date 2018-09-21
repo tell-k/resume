@@ -150,4 +150,4 @@
  * - Sphinxと僕 (PyCon Apac 2013)
    - https://tell-k.github.io/pyconapac2013/
  * - SQLAlchemyと僕 (PyCon JP 2012)
-   - https://tell-k.github.io/pyconapac2012/
+   - https://tell-k.github.io/pyconjp2012/

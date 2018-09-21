@@ -153,5 +153,5 @@ Presentation
  * - Sphinx and me (PyCon Apac 2013)
    - https://tell-k.github.io/pyconapac2013/ (Japanse)
  * - SQLAlchemy and me (PyCon JP 2012)
-   - https://tell-k.github.io/pyconapac2012/ (Japanse)
+   - https://tell-k.github.io/pyconjp2012/ (Japanse)
 
