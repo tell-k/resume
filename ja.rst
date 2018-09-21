@@ -136,6 +136,8 @@
 .. list-table::
  :widths: 30 30
 
+ * - Pythonでざっくり学ぶUnixプロセス (PyCon JP 2018)
+   - https://tell-k.github.io/pyconjp2018/
  * - できる！Djangoでテスト! (DjangoCongress JP 2018)
    - https://tell-k.github.io/djangocongressjp2018/
  * - Pythonをとりまく並行/非同期の話 (PyCon JP 2017)

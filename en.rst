@@ -138,6 +138,8 @@ Presentation
 .. list-table::
  :widths: 30 30
 
+ * - Unix process to learn roughly in Python (PyCon JP 2018)
+   - https://tell-k.github.io/pyconjp2018/ (Japanese)
  * - You can! Testing with Djagno! (DjangoCongress JP 2018)
    - https://tell-k.github.io/djangocongressjp2018/ (Japanese)
  * - Concurrent and asynchronous programming around Python (PyCon JP 2017)
