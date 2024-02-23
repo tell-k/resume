@@ -1,0 +1,17 @@
+ersion: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: chezou/sphinx-recommonmark
+    steps:
+      - checkout
+      - run: -it -v `pwd`:/documents/ chezou/sphinx-recommonmark ./build_pdf.sh
+
+workflows:
+  build:
+    jobs:
+      - build
+        filters:
+          branches:
+            only: master
