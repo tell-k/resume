@@ -23,6 +23,8 @@ Basic
    - http://qiita.com/tell-k
  * - Stack Overflow
    - https://stackoverflow.com/users/7724457/tell-k
+ * - Zenn
+   - https://zenn.dev/tell_k
 
 Skills
 =================================
@@ -41,13 +43,13 @@ Skills
  * - VCS
    - Mercurial, Git
  * - Editor
-   - Vim
+   - Vim, VSCode
  * - Cloud Service
    - AWS(EC2, RDS, S3, CloudSearch, etc), GCP(BigQuery, CloudStorage, etc)
  * - CI Service
-   - CircleCi, TravisCI
+   - GitHub ActionsCircleCi, TravisCI
  * - Other
-   - Ansible, Docker, Terraform, Solr, ElasticSearch, RabbitMq, Nginx, Jenkins, Zabbix
+   - Docker, Terraform, Solr, ElasticSearch(OpenSearch), RabbitMq, Nginx, Jenkins, Zabbix, Ansible
  * - Language
    - Japanese, English(read and write with by translation tool helps)
 
@@ -114,6 +116,8 @@ Writing
 .. list-table::
  :widths: 25 30
 
+ * - Self-running Programmer
+   - https://www.amazon.co.jp/dp/4297111977/
  * - Python Professional Programming 3rd Edition
    - https://www.amazon.co.jp/dp/4798053821/ (Japanese)
  * - Python Professional Programming 2nd Edition
@@ -121,13 +125,22 @@ Writing
  * - Python Professional Programming
    - https://www.amazon.co.jp/dp/4798032948/ (Japanese)
 
+Translation
+-------------
+
+.. list-table::
+ :widths: 25 30
+
+ * - The Self-Taught Computer Scientist(Japanse version)
+   - https://www.amazon.co.jp/dp/4296070347/
+
 Reviewer
 -------------
 
 .. list-table::
  :widths: 15 30
 
- * - Self taught programmer(Japanse version)
+ * - The Self taught programmer(Japanse version)
    - https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/
  * - Let\\'s start Sphinx
    - https://www.oreilly.co.jp/books/9784873116488/ (Japanese)
@@ -138,6 +151,10 @@ Presentation
 .. list-table::
  :widths: 30 30
 
+ * - What kind of units should Django apps be built on? (DjangoCongress JP 2022)
+   - https://tell-k.github.io/djangocongressjp2022/
+ * - Handling static files well in Django (DjangoCongress JP 2019)
+   - https://tell-k.github.io/pyconjp2019/
  * - Unix process to learn roughly in Python (PyCon JP 2018)
    - https://tell-k.github.io/pyconjp2018/ (Japanese)
  * - You can! Testing with Djagno! (DjangoCongress JP 2018)

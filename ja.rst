@@ -22,6 +22,8 @@
    - http://qiita.com/tell-k
  * - Stack Overflow
    - https://stackoverflow.com/users/7724457/tell-k
+ * - Zenn
+   - https://zenn.dev/tell_k
 
 スキル
 =================================
@@ -43,13 +45,13 @@
  * - VCS
    - Mercurial, Git
  * - Editor
-   - Vim
+   - Vim, VSCode
  * - Cloud Service
-   - AWS(EC2, RDS, S3, CloudSearch, etc), GCP(BigQuery, CloudStorage, etc)
+   - AWS(EC2, RDS, Aurora, S3, CloudSearch, etc), GCP(BigQuery, CloudStorage, etc)
  * - CI Service
-   - CircleCi, TravisCI
+   - GitHub Actions, CircleCi, TravisCI
  * - その他
-   - Ansible, Docker, Terraform, Solr, ElasticSearch, RabbitMq, Nginx, Jenkins
+   - Docker, Terraform, Solr, ElasticSearch(OpenSearch), RabbitMq, Nginx, Jenkins, Ansible, 
  * - 自然言語
    - 日本語, 英語(翻訳ツールを使って多少読み書きができる程度)
 
@@ -111,6 +113,8 @@
 .. list-table::
  :widths: 30 30
 
+ * - 自走プログラマー ～Pythonの先輩が教えるプロジェクト開発のベストプラクティス120
+   - https://www.amazon.co.jp/dp/4297111977/
  * - Pythonプロフェッショナルプログラミング第3版
    - https://www.amazon.co.jp/dp/4798053821/
  * - Pythonプロフェッショナルプログラミング第2版
@@ -118,12 +122,23 @@
  * - Pythonプロフェッショナルプログラミング
    - https://www.amazon.co.jp/dp/4798032948/
 
+翻訳
+-------------
+
+.. list-table::
+ :widths: 30 30
+
+ * - 独学コンピューターサイエンティスト Pythonで学ぶアルゴリズムとデータ構造
+   - https://www.amazon.co.jp/dp/4296070347/
+
 レビュアー
 -------------
 
 .. list-table::
  :widths: 15 30
 
+ * - Pythonプロフェッショナルプログラミング第4版
+   - https://www.amazon.co.jp/dp/4798070548
  * - 独学プログラマー
    - https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/
  * - Sphinxをはじめよう
@@ -135,6 +150,10 @@
 .. list-table::
  :widths: 30 30
 
+ * - Djangoのアプリはどういう単位で作るべきか？ (DjangoCongress JP 2022)
+   - https://tell-k.github.io/djangocongressjp2022/
+ * - Djangoで静的ファイルとうまくやる (DjangoCongress JP 2019)
+   - https://tell-k.github.io/pyconjp2019/
  * - Pythonでざっくり学ぶUnixプロセス (PyCon JP 2018)
    - https://tell-k.github.io/pyconjp2018/
  * - できる！Djangoでテスト! (DjangoCongress JP 2018)
